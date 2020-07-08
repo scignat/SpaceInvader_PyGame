@@ -17,7 +17,7 @@ background = pygame.image.load('background.png')
 mixer.music.load('background.mp3')
 mixer.music.play(-1)
 # Title and Icon
-pygame.display.set_caption("Fuck COVID-19")
+pygame.display.set_caption("COVID-19")
 icon = pygame.image.load('icon.png')
 pygame.display.set_icon(icon)
 
